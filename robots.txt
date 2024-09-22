@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wemxwy.github.io/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/app/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/assets/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/css/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/data/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/includes/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/item/sitemap.html.gz
+Sitemap: https://wemxwy.github.io/src/sitemap.html.gz
